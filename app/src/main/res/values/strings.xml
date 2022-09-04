@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResourceReplace</string>
+
+    <string name="replace_string">This is replace string zcong</string>
+</resources>

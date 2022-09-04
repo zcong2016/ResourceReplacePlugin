@@ -1,0 +1,3 @@
+//include ':resourcelibrary'
+include ':app'
+rootProject.name = "ResourceReplace"
